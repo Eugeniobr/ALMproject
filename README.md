@@ -11,5 +11,5 @@ an algorithm for creating the scenario trees of asset prices.
 - PH2.cpp: Implementation of the Progressive Hedging algorithm with scenario bundling, variable fixing and parallelization strategies.    
 - PH3.cpp: Implementation of the Progressive Hedging algorithm with scenario bundling, variable fixing, parallelization strategies. This version also includes a new penalty parameter update strategy. 
 - PH4.cpp: Implementation of the Progressive Hedging algorithm with scenario bundling, variable fixing, parallelization and a penalty parameter update strategy.  
-
+- instance_generation.ipynb: This jupyter notebook contains the code used for cleaning and processing the data used in this work. It also contains an algorithm for generating the scenarios trees of asset prices.
 
